@@ -1,6 +1,6 @@
 ISE-Project-Group-21
 
-This project contains codes and data for the ISE 3230 project group 21. 
+This project contains codes and data for the ISE 3230 project group 21: Jake Denofsky, Aiden Pulsifer, Leon Chang. 
 
 The goal is to formulate an optimization problem in which, out of 42 possible venues for a Taylor Swift concert, 12 are chosen for her tour. 
 
