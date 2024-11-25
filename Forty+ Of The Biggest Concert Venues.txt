@@ -1,0 +1,42 @@
+﻿1. Ohio Stadium - Columbus, OH - 102780
+2. Metlife Stadium - East Rutherford, NJ - 82500
+3. AT&T Stadium - Arlington, TX - 80000
+4. Los Angeles Memorial Coliseum - Los Angeles, CA - 77500
+5. Arrowhead Stadium - Kansas City, MO - 76416
+6. Empower Field at Mile High - Denver, CO - 76125
+7. Bank of America Stadium - Charlotte, NC - 74867 
+8. Caesars Superdome - New Orleans, LA - 73208
+9. NRG Stadium - Houston, TX - 72220
+10. Allegiant Stadium - Paradise, NV - 71835
+11. Mercedes-Benz Stadium - Atlanta, GA - 71000
+12. SoFi Stadium - Inglewood, CA - 70240
+13. Raymond James Stadium - Tampa, FL - 69218
+14. Nissan Stadium - Nashville, TN - 69143
+15. Lumen Field - Seattle, WA - 68740
+16. Levi’s Stadium - Santa Clara, CA - 68500
+17. Acrisure Stadium - Pittsburgh, PA - 68400
+18. EverBank Stadium - Jacksonville, FL - 67814
+19. Lincoln Financial Field - Philadelphia, PA - 67594
+20. Huntington Bank Field - Cleveland, OH - 67431
+21. The Dome at America’s Center - St. Louis, MO - 67277
+22. US Bank Stadium - Minneapolis, MN - 66655
+23. Gillette Stadium - Foxborough, MA - 65878
+24. Lane Stadium - Blacksburg, VA - 65632
+25. Paycor Stadium - Cincinnati, OH - 65515
+26. Ford Field - Detroit, MI - 65000
+27. Hard Rock Stadium - Miami, FL - 64767
+28. Alamodome - San Antonio, TX - 64000
+29. State Farm Stadium - Glendale, AZ - 63400
+30. Lucas Oil Stadium - Indianapolis, IN - 63000
+31. Northwest Stadium - Landover, MD - 62000
+32. Soldier Field - Chicago, IL - 61,500
+33. Camping World Stadium - Orlando, FL - 60219
+34. Rice-Eccles Stadium - Salt Lake City, UT - 51444
+35. Bill Snyder Family Football Stadium - Manhattan, KS - 50000
+36. JMA Wireless Dome - Syracuse, NY - 49262
+37. Petco Park - San Diego, CA - 42445
+38. Citi Field - Queens, NY - 41800
+39. Oracle Park - San Francisco, CA - 41503
+40. Albertsons Stadium - Boise, ID - 36387
+41. Red Bull Arena - Harrison, NJ - 35000
+42. Providence Park - Portland, OR - 32000
