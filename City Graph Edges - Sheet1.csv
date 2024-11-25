@@ -1,0 +1,267 @@
+Source City,Destination City,Attendance,Distance,Edge
+Arlington,Houston,72220,256,47
+Arlington,San Antonio,64000,277,180
+Atlanta,Charlotte,74867,244,38
+Atlanta,New Orleans,73208,469,46
+Atlanta,Tampa,69218,456,69
+Atlanta,Nashville,69143,250,75
+Atlanta,Jacksonville,67814,313,102
+Atlanta,Blacksburg,65632,410,147
+Atlanta,Cincinnati,65515,461,159
+Atlanta,Orlando,60219,438,217
+Blacksburg,Columbus,102780,299,8
+Blacksburg,East Rutherford,82500,489,18
+Blacksburg,Charlotte,74867,174,42
+Blacksburg,Atlanta,71000,410,60
+Blacksburg,Nashville,69143,414,77
+Blacksburg,Pittsburgh,68400,293,92
+Blacksburg,Philadelphia,67594,405,111
+Blacksburg,Cleveland,67431,393,120
+Blacksburg,Cincinnati,65515,342,164
+Blacksburg,Detroit,65000,494,172
+Blacksburg,Indianapolis,63000,451,192
+Blacksburg,Landover,62000,269,203
+Blacksburg,Harrison ,35000,479,262
+Boise,Seattle,68740,496,81
+Boise,Salt Lake City,51444,339,223
+Boise,Portland,32000,430,267
+Charlotte,Columbus,102780,425,2
+Charlotte,Atlanta,71000,244,55
+Charlotte,Nashville,69143,340,74
+Charlotte,Pittsburgh,68400,449,89
+Charlotte,Jacksonville,67814,384,101
+Charlotte,Blacksburg,65632,174,146
+Charlotte,Cincinnati,65515,478,158
+Charlotte,Landover,62000,409,198
+Chicago,Columbus,102780,323,13
+Chicago,Nashville,69143,455,80
+Chicago,Pittsburgh,68400,450,97
+Chicago,Cleveland,67431,339,125
+Chicago,St. Louis,67277,288,134
+Chicago,Minneapolis,66655,413,137
+Chicago,Cincinnati,65515,289,168
+Chicago,Detroit,65000,271,175
+Chicago,Indianapolis,63000,182,195
+Cincinnati,Columbus,102780,107,9
+Cincinnati,Charlotte,74867,478,43
+Cincinnati,Atlanta,71000,461,61
+Cincinnati,Nashville,69143,272,78
+Cincinnati,Pittsburgh,68400,285,93
+Cincinnati,Cleveland,67431,241,121
+Cincinnati,St. Louis,67277,343,132
+Cincinnati,Blacksburg,65632,342,152
+Cincinnati,Detroit,65000,257,173
+Cincinnati,Indianapolis,63000,109,193
+Cincinnati,Landover,62000,492,204
+Cincinnati,Chicago,61500,289,214
+Cleveland,Columbus,102780,143,6
+Cleveland,East Rutherford,82500,456,16
+Cleveland,Pittsburgh,68400,125,91
+Cleveland,Philadelphia,67594,421,109
+Cleveland,Blacksburg,65632,393,151
+Cleveland,Cincinnati,65515,241,162
+Cleveland,Detroit,65000,166,171
+Cleveland,Indianapolis,63000,291,190
+Cleveland,Landover,62000,358,201
+Cleveland,Chicago,61500,339,211
+Cleveland,Syracuse,49262,328,230
+Cleveland,Queens,41800,487,245
+Cleveland,Harrison ,35000,456,260
+Columbus,Charlotte,74867,425,37
+Columbus,Nashville,69143,380,73
+Columbus,Pittsburgh,68400,185,87
+Columbus,Philadelphia,67594,469,106
+Columbus,Cleveland,67431,143,116
+Columbus,St. Louis,67277,418,129
+Columbus,Blacksburg,65632,299,144
+Columbus,Cincinnati,65515,107,157
+Columbus,Detroit,65000,203,169
+Columbus,Indianapolis,63000,176,186
+Columbus,Landover,62000,406,196
+Columbus,Chicago,61500,323,208
+Denver,Salt Lake City,51444,499,221
+Denver,Manhattan,50000,494,225
+Detroit,Columbus,102780,203,10
+Detroit,Pittsburgh,68400,278,94
+Detroit,Cleveland,67431,166,122
+Detroit,Blacksburg,65632,494,153
+Detroit,Cincinnati,65515,257,165
+Detroit,Indianapolis,63000,275,194
+Detroit,Chicago,61500,271,215
+Detroit,Syracuse,49262,401,232
+East Rutherford,Pittsburgh,68400,371,88
+East Rutherford,Philadelphia,67594,95,107
+East Rutherford,Cleveland,67431,456,117
+East Rutherford,Foxborough,65878,204,138
+East Rutherford,Blacksburg,65632,489,145
+East Rutherford,Landover,62000,252,197
+East Rutherford,Syracuse,49262,241,227
+East Rutherford,Queens,41800,23,242
+East Rutherford,Harrison ,35000,10,257
+Foxborough,East Rutherford,82500,204,17
+Foxborough,Philadelphia,67594,294,110
+Foxborough,Landover,62000,420,202
+Foxborough,Syracuse,49262,310,231
+Foxborough,Queens,41800,195,246
+Foxborough,Harrison ,35000,213,261
+Glendale,Los Angeles,77500,370,28
+Glendale,Paradise,71835,264,52
+Glendale,Inglewood,70240,385,66
+Glendale,San Diego,42445,353,240
+Harrison,East Rutherford,82500,10,22
+Harrison,Pittsburgh,68400,359,100
+Harrison,Philadelphia,67594,83,115
+Harrison,Cleveland,67431,356,128
+Harrison,Foxborough,65878,213,143
+Harrison,Blacksburg,65632,479,156
+Harrison,Landover,62000,215,207
+Harrison,Syracuse,49262,229,235
+Harrison,Queens,41800,32,249
+Houston,Arlington,80000,256,23
+Houston,New Orleans,73208,348,45
+Houston,San Antonio,64000,196,181
+Indianapolis,Columbus,102780,176,11
+Indianapolis,Kansas City,76416,482,33
+Indianapolis,Nashville,69143,289,79
+Indianapolis,Pittsburgh,68400,361,95
+Indianapolis,Cleveland,67431,291,123
+Indianapolis,St. Louis,67277,238,133
+Indianapolis,Blacksburg,65632,451,154
+Indianapolis,Cincinnati,65515,109,166
+Indianapolis,Detroit,65000,275,174
+Indianapolis,Chicago,61500,182,216
+Inglewood,Los Angeles,77500,13,26
+Inglewood,Paradise,71835,280,51
+Inglewood,Santa Clara,68500,348,84
+Inglewood,Glendale,63400,385,184
+Inglewood,San Diego,42445,124,238
+Inglewood,San Francisco,41503,349,251
+Jacksonville,Charlotte,74867,384,41
+Jacksonville,Atlanta,71000,313,59
+Jacksonville,Tampa,69218,199,70
+Jacksonville,Miami,64767,357,178
+Jacksonville,Orlando,60219,141,219
+Kansas City,St. Louis,67277,248,130
+Kansas City,Minneapolis,66655,437,136
+Kansas City,Indianapolis,63000,482,187
+Kansas City,Manhattan,50000,120,224
+Landover,Columbus,102780,406,12
+Landover,East Rutherford,82500,252,19
+Landover,Charlotte,74867,409,44
+Landover,Pittsburgh,68400,233,96
+Landover,Philadelphia,67594,171,112
+Landover,Cleveland,67431,358,124
+Landover,Foxborough,65878,420,140
+Landover,Blacksburg,65632,269,155
+Landover,Cincinnati,65515,492,167
+Landover,Syracuse,49262,367,233
+Landover,Queens,41800,232,247
+Landover,Harrison ,35000,215,263
+Los Angeles,Paradise,71835,266,50
+Los Angeles,Inglewood,70240,13,63
+Los Angeles,Santa Clara,68500,245,83
+Los Angeles,Glendale,63400,370,182
+Los Angeles,San Diego,42445,129,236
+Los Angeles,San Francisco,41503,382,250
+Manhattan,Kansas City,76416,120,34
+Manhattan,Denver,76125,494,36
+Manhattan,St. Louis,67277,368,135
+Miami,Tampa,69218,269,71
+Miami,Jacksonville,67814,357,104
+Miami,Orlando,60219,235,220
+Minneapolis,Kansas City,76416,437,32
+Minneapolis,Chicago,61500,413,213
+Nashville,Columbus,102780,380,3
+Nashville,Charlotte,74867,340,39
+Nashville,Atlanta,71000,250,58
+Nashville,St. Louis,67277,309,131
+Nashville,Blacksburg,65632,414,148
+Nashville,Cincinnati,65515,272,160
+Nashville,Indianapolis,63000,289,188
+Nashville,Chicago,61500,455,209
+New Orleans,Houston,72220,348,48
+New Orleans,Atlanta,71000,469,56
+Orlando,Atlanta,71000,438,62
+Orlando,Tampa,69218,84,72
+Orlando,Jacksonville,67814,141,105
+Orlando,Miami,64767,235,179
+Paradise,Los Angeles,77500,266,25
+Paradise,Inglewood,70240,280,64
+Paradise,Glendale,63400,264,183
+Paradise,Salt Lake City,51444,426,222
+Paradise,San Diego,42445,328,237
+Philadelphia,Columbus,102780,469,5
+Philadelphia,East Rutherford,82500,95,15
+Philadelphia,Pittsburgh,68400,296,90
+Philadelphia,Cleveland,67431,421,119
+Philadelphia,Foxborough,65878,294,139
+Philadelphia,Blacksburg,65632,405,150
+Philadelphia,Landover,62000,171,200
+Philadelphia,Syracuse,49262,249,229
+Philadelphia,Queens,41800,106,244
+Philadelphia,Harrison ,35000,83,259
+Pittsburgh,Columbus,102780,185,4
+Pittsburgh,East Rutherford,82500,371,14
+Pittsburgh,Charlotte,74867,449,40
+Pittsburgh,Philadelphia,67594,296,108
+Pittsburgh,Cleveland,67431,125,118
+Pittsburgh,Blacksburg,65632,293,149
+Pittsburgh,Cincinnati,65515,285,161
+Pittsburgh,Detroit,65000,278,170
+Pittsburgh,Indianapolis,63000,361,189
+Pittsburgh,Landover,62000,233,199
+Pittsburgh,Chicago,61500,450,210
+Pittsburgh,Syracuse,49262,322,228
+Pittsburgh,Queens,41800,390,243
+Pittsburgh,Harrison ,35000,359,258
+Portland,Seattle,68740,174,82
+Portland,Boise,36387,430,256
+Queens,East Rutherford,82500,23,21
+Queens,Pittsburgh,68400,390,99
+Queens,Philadelphia,67594,106,114
+Queens,Cleveland,67431,487,127
+Queens,Foxborough,65878,195,142
+Queens,Landover,62000,232,206
+Queens,Syracuse,49262,241,234
+Queens,Harrison ,35000,32,265
+Salt Lake City,Denver,76125,499,35
+Salt Lake City,Paradise,71835,426,53
+Salt Lake City,Boise,36387,339,255
+San Antonio,Arlington,80000,277,24
+San Antonio,Houston,72220,196,49
+San Diego,Los Angeles,77500,129,29
+San Diego,Paradise,71835,328,54
+San Diego,Inglewood,70240,124,67
+San Diego,Santa Clara,68500,465,85
+San Diego,Glendale,63400,353,185
+San Diego,San Francisco,41503,459,253
+San Francisco,Los Angeles,77500,382,30
+San Francisco,Inglewood,70240,349,68
+San Francisco,Santa Clara,68500,45,86
+San Francisco,San Diego,42445,459,241
+Santa Clara,Los Angeles,77500,245,27
+Santa Clara,Inglewood,70240,348,65
+Santa Clara,San Diego,42445,465,239
+Santa Clara,San Francisco,41503,45,252
+Seattle,Boise,36387,496,254
+Seattle,Portland,32000,174,266
+St. Louis,Columbus,102780,418,7
+St. Louis,Kansas City,76416,248,31
+St. Louis,Nashville,69143,309,76
+St. Louis,Cincinnati,65515,343,163
+St. Louis,Indianapolis,63000,238,191
+St. Louis,Chicago,61500,288,212
+St. Louis,Manhattan,50000,368,226
+Syracuse,East Rutherford,82500,241,20
+Syracuse,Pittsburgh,68400,322,98
+Syracuse,Philadelphia,67594,249,113
+Syracuse,Cleveland,67431,328,126
+Syracuse,Foxborough,65878,310,141
+Syracuse,Detroit,65000,401,176
+Syracuse,Landover,62000,367,205
+Syracuse,Queens,41800,241,248
+Syracuse,Harrison ,35000,229,264
+Tampa,Atlanta,71000,456,57
+Tampa,Jacksonville,67814,199,103
+Tampa,Miami,64767,269,177
+Tampa,Orlando,60219,84,218

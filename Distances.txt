@@ -1,0 +1,504 @@
+﻿FI’m only listing each edge once for now, so ctrl+f to find the distances for each city if you need it
+
+
+Distance from (miles):
+
+Columbus, OH:
+
+East Rutherford: 537
+Kansas City: 657
+Charlotte: 425
+Nashville: 380
+Pittsburgh: 185
+Philadelphia: 469
+Cleveland: 143
+St. Louis: 418
+Minneapolis: 730
+Foxborough: 744
+Blacksburg: 299
+Cincinnati: 107
+Detroit: 203
+Indianapolis: 176
+Landover: 406
+Chicago: 323
+Syracuse: 537
+Queens: 549
+Harrison: 526
+
+
+East Rutherford, NJ:
+Kansas City: 1090
+Charlotte: 626
+Nashville: 885
+Pittsburgh: 371
+Philadelphia: 95
+Cleveland: 456
+St. Louis: 951
+Foxborough: 204
+Blacksburg: 489
+Cincinnati: 640
+Detroit: 608
+Landover: 252
+Chicago: 785
+Syracuse: 241
+Queens: 23
+Harrison: 10
+
+
+Arlington, TX:
+Los Angeles: 1222
+Paradise: 1206
+Denver: 777
+Houston: 256
+Santa Clara: 1680 
+San Antonio: 277
+Glendale: 1058
+San Diego:  1342
+San Francisco: 1718
+Boise:  1575
+Kansas City: 559
+New Orleans: 516
+Atlanta: 803
+Nashville: 684
+St. Louis: 651
+Indianapolis: 923
+
+
+Los Angeles, CA:
+Denver: 1016
+Seattle: 1135
+Santa Clara: 245
+Glendale: 370
+San Diego: 129
+San Francisco: 382
+Boise: 842
+Portland: 827
+
+
+Kansas City, MO:
+Charlotte: 962
+Atlanta:799
+Tampa:1255
+Nashville:553
+Pittsburgh:780
+Jacksonville:1145
+Philadelphia:1125
+Cleveland:798
+St. Louis:248
+Minneapolis: 437
+Blacksburg: 890
+Cincinnati: 589
+Detroit: 644
+Landover: 1063
+Indianapolis: 482
+Chicago: 510
+Syracuse: 1126
+
+
+Denver, CO:
+Kansas City: 604
+Houston: 1028
+Paradise: 753
+Nashville: 1156
+San Antonio: 932
+Glendale: 1014
+Boise: 813
+
+
+Charlotte, NC:
+Atlanta:244
+Tampa:581
+Nashville:340
+Pittsburgh:449
+Jacksonville:384
+Philadelphia:536
+Cleveland:516
+St. Louis:713
+Blacksburg: 174
+Cincinnati:478
+Detroit: 625
+Landover: 409
+Indianapolis: 575
+Chicago: 756
+Harrison:620
+
+
+New Orleans, LA:
+Atlanta: 469
+Tampa:657
+Nashville:533
+Pittsburgh:1090
+Jacksonville:546
+Philadelphia:1221
+St. Louis:678
+Blacksburg: 833
+Miami:862
+Landover: 1101
+Indianapolis: 818
+
+
+
+
+
+
+
+
+
+
+Houston, TX:
+San Antonio: 196
+Kansas City: 648
+New Orleans: 348
+Atlanta: 793
+Nashville: 790
+St. Louis: 792
+
+Paradise, NV:
+Los Angeles: 266
+Seattle:1121
+Santa Clara: 526
+San Antonio: 1279
+Glendale: 264
+San Diego: 328
+San Francisco: 564
+Boise: 629
+Portland: 975
+
+Atlanta, GA:
+Tampa: 456
+Nashville: 250
+Pittsburgh: 685
+Jacksonville: 313
+Philadelphia: 782
+St. Louis: 555
+Blacksburg: 410
+Cincinnati: 461
+Miami: 663
+Landover: 656
+Indianapolis: 504
+Chicago: 689
+
+
+
+
+
+
+Inglewood, CA:
+
+
+Arlington: 1433
+Los Angeles: 13
+Paradise: 280
+Houston:1559 
+Seattle: 1139
+Santa Clara: 348 
+San Antonio: 1367
+Glendale: 385
+San Diego: 124 
+San Francisco: 349
+Boise: 846
+Portland: 966
+
+
+Tampa, FL:
+Nashville: 705
+Pittsburgh: 1020
+Jacksonville: 199
+Philadelphia: 1046
+St. Louis: 1010
+Blacksburg: 751
+Cincinnati: 916
+Miami: 269
+Landover: 912
+Indianapolis: 959
+
+
+Nashville, TN:
+Pittsburgh: 560
+Jacksonville: 595
+Philadelphia: 805
+Cleveland: 521
+St. Louis: 309
+Minneapolis: 871
+Blacksburg: 414
+Cincinnati: 272
+Detroit: 534
+Miami: 912
+Landover: 677
+Indianapolis: 289
+Chicago: 455
+Syracuse: 848
+Queens: 915
+Harrison: 892
+
+
+Seattle, WA:
+Portland: 174
+Boise: 496
+Glendale: 1130
+
+
+Santa Clara, CA:
+Glendale: 713
+San Diego: 465
+San Francisco: 45
+Boise: 671
+Portland: 666
+
+
+Pittsburgh, PA:
+Jacksonville: 847
+Philadelphia: 296
+Cleveland: 125
+St. Louis: 599
+Minneapolis: 863
+Blacksburg: 293
+Cincinnati: 285
+Detroit: 278
+Miami: 1204
+Landover: 233
+Indianapolis: 361
+Chicago: 450
+Syracuse: 322
+Queens: 390
+Harrison: 359
+
+
+Jacksonville, FL:
+Philadelphia: 931
+St. Louis: 863
+Blacksburg: 555
+Cincinnati: 746
+Miami: 357
+Landover: 767
+Indianapolis: 806
+Queens: 1029
+Harrison: 1005
+
+
+Philadelphia, PA:
+Cleveland: 421
+St. Louis: 890
+Minneapolis: 1159
+Blacksburg: 405
+Cincinnati: 575
+Detroit: 574
+Miami: 1287
+Landover: 171
+Indianapolis: 651
+Chicago: 746
+Syracuse: 249
+Queens: 106
+Harrison: 83
+
+
+Cleveland, OH: 
+St. Louis: 529
+Minneapolis: 752
+Blacksburg: 393
+Cincinnati: 241
+Detroit: 166
+Miami: 1288
+Landover: 358
+Indianapolis: 291
+Chicago: 339
+Syracuse: 328
+Queens: 487
+Harrison: 456
+
+
+
+
+St. Louis, MO:
+Minneapolis: 542
+Blacksburg: 660
+Cincinnati: 343
+Detroit: 513
+Miami: 1220
+Landover: 818
+Indianapolis: 238
+Chicago: 288
+Syracuse: 858
+Queens: 984
+Harrison: 953
+
+
+Minneapolis, MN:
+Blacksburg: 1022
+Cincinnati: 702
+Detroit: 684
+Indianapolis: 598
+Chicago: 413
+
+
+Foxborough, MA:
+Philadelphia: 294
+Blacksburg: 697
+Landover: 420
+Syracuse: 310
+Queens: 195
+Harrison: 213
+
+
+Blacksburg, VA:
+Cincinnati: 342
+Detroit: 494
+Miami: 912
+Landover: 269
+Indianapolis: 451
+Chicago: 609
+Syracuse: 533
+Queens: 503
+Harrison: 479
+
+
+Cincinnati, OH:
+Detroit: 257
+Miami: 1103
+Landover: 492
+Indianapolis: 109
+Chicago: 289
+Syracuse: 570
+Queens: 670
+Harrison: 639
+
+
+
+
+Detroit, MI:
+Landover: 511
+Indianapolis: 275
+Chicago: 271
+Syracuse: 401
+Queens: 620
+Harrison: 598
+
+
+Miami, FL:
+Landover: 1124
+Indianapolis: 1163
+
+
+
+
+San Antonio, TX:
+
+
+Glendale: 991
+San Diego:  1275
+San Francisco: 1732
+Boise: 1641
+Kansas City: 705 
+New Orleans: 507
+Atlanta: 988
+Nashville: 936
+St. Louis: 905
+
+
+
+
+Glendale, AZ:
+
+
+San Diego: 353
+San Francisco: 750
+Boise: 905
+Portland: 1330
+
+Indianapolis, IN:
+Landover: 580
+Chicago: 182
+Syracuse: 644
+Queens: 723
+Harrison: 701
+
+
+Landover, MD:
+Chicago: 708
+Syracuse: 367
+Queens: 232
+Harrison: 215
+
+
+Chicago, IL:
+Syracuse: 678
+Queens: 808
+Harrison: 780
+
+
+Orlando, FL:
+
+
+Kansas City: 1238
+Charlotte: 525
+New Orleans: 640
+Atlanta: 438
+Tampa: 84
+Nashville: 687
+Jacksonville: 141
+St. Louis: 992
+Blacksburg: 696
+Miami: 235
+Landover: 857
+
+
+
+
+Salt Lake City, UT:
+Los Angeles: 688
+Paradise: 426
+Denver: 499
+Houston: 1434
+Santa Clara:  766
+San Antonio: 1313
+Glendale: 658
+San Diego:  750
+San Francisco: 736
+Boise:  339
+Kansas City: 1075
+Nashville: 1632
+St. Louis: 1324
+Indianapolis: 1525
+Manhattan: 994
+
+
+Manhattan, KS
+Denver: 494
+Kansas City: 120
+Nashville: 675
+Minneapolis: 557
+Cleveland: 918
+St. Louis: 368
+Minneapolis: 556
+Blacksburg: 1010
+Cincinnati: 709
+Detroit: 882
+Indianapolis: 602 
+Chicago: 623
+
+
+
+Syracuse, NY:
+Queens: 241
+Harrison: 229
+
+
+San Diego, CA:
+San Francisco: 459
+Boise: 954
+Portland: 1082
+
+
+Queens, NY:
+Harrison: 32
+
+
+
+
+San Francisco, CA:
+Boise: 640
+Portland:635
+
+
+Boise, ID:
+Portland: 430
